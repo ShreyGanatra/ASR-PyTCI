@@ -51,4 +51,10 @@ Download the speech audio clips from [https://github.com/naplab/PyTCI/blob/main/
 ## Implementation
 <hline>
 
+Dataset used: LibriSpeech test-clean
+  
+1. Toy-Model: Time integration window for known layers verified using TCI tookit. Further, we have newly attempted to observe effects of integration window vs variation in pitch, tempo, reverberation of input audio signal.
+  
+2. DeepSpeech2 Model: The Integration window  duration Analysis is done on units of DNN based DeepSpeech2 model [https://github.com/SeanNaren/deepspeech.pytorch](url) over 2 Conv layers and 5 LSTM layers. Further, we have attempted to observe effects of integration window in layers of DeepSpeech2 model, for time-shrunk/sped-up input audio signals
+
 
