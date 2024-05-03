@@ -36,8 +36,8 @@ pip install git+https://github.com/naplab/PyTCI.git
 sudo apt-get install -y libsox-dev
 ```
 
-
-
+Download the speech audio clips from [https://github.com/naplab/PyTCI/blob/main/Examples/resources.tar
+](url) and extract them
 
 
 
