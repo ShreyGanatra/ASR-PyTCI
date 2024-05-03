@@ -4,7 +4,9 @@
 ## Introduction
 <hline>
 
-> Paper implemented: Understanding Adaptive, Multiscale Temporal Integration In Deep Speech Recognition Systems [https://openreview.net/pdf?id=h4es0CIohF](url)
+> Paper: Understanding Adaptive, Multiscale Temporal Integration In Deep Speech Recognition Systems [https://openreview.net/pdf?id=h4es0CIohF](url)
+
+> Github: [https://github.com/naplab/PyTCI/tree/main](url)
 
 Understanding how deep neural networks (DNNs) integrate information across different timescales is crucial for tasks like speech recognition. Temporal Context Invariance (TCI) paradigm is introduced to investigate this integration in DNNs.
 
