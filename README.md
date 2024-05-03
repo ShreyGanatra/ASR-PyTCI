@@ -8,6 +8,7 @@ Natural signals such as speech are hierarchically structured across many differe
 ## Installation
 <hline>
 Create a virtual environment and install the necessary libraries.
+  
 ```
 conda create -n PyTCI python=3.10.12
 conda activate PyTCI
