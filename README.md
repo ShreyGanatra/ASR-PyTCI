@@ -10,6 +10,9 @@
 
 ## Installation
 <hline>
+```
+conda create -n PyTCI python=3.10
+```
 
 
 
