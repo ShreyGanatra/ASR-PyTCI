@@ -10,6 +10,9 @@
 
 Understanding how deep neural networks (DNNs) integrate information across different timescales is crucial for tasks like speech recognition. Temporal Context Invariance (TCI) paradigm is introduced to investigate this integration in DNNs.
 
+### Main Idea:
+Natural signals such as speech are hierarchically structured across many different timescales, spanning tens (e.g., phonemes) to hundreds (e.g., words) of milliseconds, each of which is highly variable and context-dependent. We measure responses to a large number of stimulus segments presented in two different contexts and estimate the smallest segment duration needed to achieve a context invariant response.
+
 ### Key Findings:
 
 * DNNs exhibit a hierarchical integration of information across time.
