@@ -10,9 +10,7 @@
 
 ## Installation
 <hline>
-'''
-conda create -n PyTCI python=3.10
-'''
+  
 ```
 git status
 conda create -n PyTCI python=3.10
